@@ -4,7 +4,7 @@ My name is Ali Ebrahimi
 Developer & Teacher
 -----------------------------
 
-*   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
+*   #🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
 *   🚀  I'm currently working on [Promotiveh](https://instagram.com/promotiveh)
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 
