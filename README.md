@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Ebrahimi</h1>
-<h3 align="center">a web and mobile fullStack from Iran</h3>
+<h3 align="center">python web developer and web scraper from Iran</h3>
 
-- 🌱 I’m currently learning **flutter and angular js**
+- 🌱 I’m currently learning **linux and bug bounty**
 
-- 💬 Ask me about **django python kotlin**
+- 💬 Ask me about **django python scraping**
 
 - 📫 How to reach me **aliactionsmart3@gmail.com**
 
