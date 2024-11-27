@@ -61,10 +61,7 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a>
   <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Scrapy_logo.svg/1200px-Scrapy_logo.svg.png" alt="scrapy" width="40" height="40"/>
-  </a>
-  <a href="https://docs.python-requests.org/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Requests_Python_Logo.png" alt="requests" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Scrapy_logo.jpg" alt="scrapy" width="40" height="40"/>
   </a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="40" height="40"/>
